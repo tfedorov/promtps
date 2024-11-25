@@ -19,6 +19,7 @@ Throughout the interview, you carefully assessed the candidate's knowledge in va
 - Big Data platforms: [Provide an assessment of the candidate's proficiency, e.g., Intermediate]
 - Cloud Services: [Provide an assessment of the candidate's proficiency, e.g., Proficient]
 - NoSQL (Cassandra / Redis / MongoDB / HBase, etc.)
+- Design Patterns
 - The candidate [Provide succesfully/failed] completed the coding tasks assigned during the interview.
 - Data Processing approaches: 1. Batch Processing; 2. Stream Processing
 
@@ -31,6 +32,7 @@ _Prepare a summary of the interview with paragraphs addressing the following for
 - Refer to Other Opportunities: Discuss the types of opportunities that would be best suited for the candidate, considering their strengths and areas for improvement.
 - Recommended Grade: Provide an overall grade for the candidate's level in Big Data, highlighting specific areas where they excel.
 - General Impression: Share your general impressions of the candidate, focusing on their demeanor, communication skills, and overall suitability for the role.
+- Technical Impression:
 - Each of this point: Scala,Spark,SQL,Algorithms, Java, Big Data platforms, Cloud Services, NoSQL
 
 Please, wirite concisely
