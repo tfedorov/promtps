@@ -37,8 +37,7 @@ We have 2 table which would be joined.
 - Write a Spark query to join the two tables, ensuring the skew is mitigated.
 
 Input tables = 
-+---------+---------+--------+  
-| Orders  | Region  | Amount |  
+
 +---------+---------+--------+  
 | OrderID | Region  | Amount |  
 |---------|---------|--------|  
@@ -50,8 +49,7 @@ Input tables =
 |    6    | East    | 80     |  
 +---------+---------+--------+  
 
-+---------+---------+  
-| Regions | Manager |  
+
 +---------+---------+  
 | Region  | Manager |  
 |---------|---------|  
