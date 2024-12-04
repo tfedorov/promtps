@@ -4,6 +4,7 @@
 
 As the technical interviewer, your task is to provide a comprehensive summary of the interview conducted with a candidate [Candidate's Name] for a Big Data position within your company's project. 
 Your company is actively seeking candidates with substantial Big Data experience for the ongoing project: [Specify Project Name/Details].
+I'll describe You bellow form of interview summary and thoughts about the candidate. Fill the form according to instruction.
 
 Throughout the interview, you carefully assessed the candidate's knowledge in various key areas:
 - Java Core: 
@@ -26,7 +27,7 @@ Here is a not structured notes about the candidate: []
 
 In your professional opinion, the candidate's proficiency level in the field of Big Data is [Specify Level, e.g., Intermediate].
 
-_Prepare a summary of the interview with paragraphs addressing the following for key areas above and additionally:
+Prepare a summary of the interview with paragraphs addressing the following for key areas above and additionally:
 
 - Refer to Other Opportunities: Discuss the types of opportunities that would be best suited for the candidate, considering their strengths and areas for improvement.
 - Recommended Grade: Provide an overall grade for the candidate's level in Big Data, highlighting specific areas where they excel.
