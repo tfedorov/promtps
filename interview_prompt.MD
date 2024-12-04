@@ -2,7 +2,7 @@
 
 ### Summary of interview
 
-As the technical interviewer, your task is to provide a comprehensive summary of the interview conducted with a candidate [Candidate's Name] for a Big Data position within your company's project.
+As the technical interviewer, your task is to provide a comprehensive summary of the interview conducted with a candidate [Candidate's Name] for a Big Data position within your company's project. Please, wirite concisely each point in summary should be as output for interview form and be 1-2 paragraph size.
 Here is a not structured notes about the candidate: []
 
 In your professional opinion, the candidate's proficiency level in the field of Big Data is [Specify Level, e.g., Intermediate].
@@ -35,4 +35,4 @@ _Prepare a summary of the interview with paragraphs addressing the following for
 - Technical Impression:
 - Each of this point: Scala,Spark,SQL,Algorithms, Java, Big Data platforms, Cloud Services, NoSQL
 
-Please, wirite concisely
+
