@@ -6,6 +6,22 @@
 
 ---
 
+## Overall Evaluation
+
+- **Appropriate for position?**: [Yes/No/Maybe]  
+- **Refer to Other Opportunities**: [Yes/No/Maybe, If Yes - Suggest roles or opportunities best suited to their strengths and areas for improvement.]  
+- **Recommended Grade**: [Provide an overall grade, e.g., Junior, Middle, Senior.]  
+
+---
+
+## General Impression  
+[Summarize your overall impression of the candidate, including their demeanor, communication skills, and attitude during the interview. 1-2 paragraphs]  
+
+## Technical Impression  
+[Evaluate their technical expertise, discussing areas of strength and any gaps in knowledge or experience.1-2 paragraphs]  
+
+---
+
 ## Assessment of Key Areas
 
 1. **Java Core**  
@@ -50,18 +66,3 @@
 - **Test Task #2: Spark**  
    [Provide a description of the Spark task and assess how effectively the candidate solved it.]  
 
----
-
-## Overall Evaluation
-
-- **Proficiency Level**: [Specify overall level, e.g., Beginner, Intermediate, Advanced, Proficient.]  
-- **Refer to Other Opportunities**: [Suggest roles or opportunities best suited to their strengths and areas for improvement.]  
-- **Recommended Grade**: [Provide an overall grade, e.g., A, B, C.]  
-
----
-
-## General Impression  
-[Summarize your overall impression of the candidate, including their demeanor, communication skills, and attitude during the interview.]  
-
-## Technical Impression  
-[Evaluate their technical expertise, discussing areas of strength and any gaps in knowledge or experience.]  
