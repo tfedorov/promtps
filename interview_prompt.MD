@@ -1,9 +1,5 @@
 # Interview Summary for [Candidate’s Name]
 
-**Position**: Big Data Developer  
-**Project**: [Specify Project Name/Details]  
-**Date**: [Interview Date]  
-
 ---
 
 ## Overall Evaluation
