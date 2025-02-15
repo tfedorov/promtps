@@ -1,4 +1,9 @@
-# Interview Summary for [Candidate’s Name]
+*"I conducted an interview for a [Big Data/Java/Scala/Other] developer position and took unstructured notes on the candidate's responses. I need to generate a structured interview summary based on my notes. Interview summary feedback need for delivery manager and HR for decision making about the candidate
+
+Here is my raw input:*
+[Insert unstructured notes here]
+
+Please organize this information into a structured interview summary using the following format:
 
 ---
 
