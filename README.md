@@ -1,2 +1,1 @@
-# promtps
-# promtps
+# Collection of prompts for LLM
