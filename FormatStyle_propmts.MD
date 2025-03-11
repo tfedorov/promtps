@@ -1,3 +1,5 @@
+## Self-Ask Prompting
+-  ask clarifying questions before generating a response
 
 ## Format & Style
 ### Format
