@@ -3,19 +3,38 @@
 - I am a Senior Scala Big Data Developer working on large-scale distributed data processing.
 - Explain like I'm a junior developer.
 - Provide an advanced technical breakdown.
-- I am a Senior Scala Big Data Developer want to generate unit tests for the method.
 - As a Big Data Architect, I design distributed data pipelines. Explain how to build a scalable real-time streaming architecture using ...
 
-## Set the Response Format
+## Unit testing
+- I am a Senior Scala Big Data Developer want to generate unit tests for the method. 
+  Follow Thoughtbot's best practices for writing clean, readable, and maintainable tests.
+Requirements:
+-- Use Scalatest as the testing framework.
+-- Follow the AAA pattern (Arrange, Act, Assert) for clarity.
+-- Keep tests small, independent, and fast by avoiding unnecessary external dependencies.
+-- Try to not Use mocks/stubs (e.g., Mockito or ScalaMock).
+-- Ensure edge cases and error handling are covered.
+-- Provide meaningful test names that describe the behavior.
 
+## Set the Response Format
 - Provide code first, then explain it step by step.
+- Provide gradle kotlin code with rerquired dependencies.
 - Explain the trade-offs of using ...
 - Paint design diagram for solution
 - Provide plantuml component diagram for solution. Use sprites spark/java/hadoop for corresponding elements.
-- Summarize the key points in bullet points.
+
 - Describe in MD format provide pure code with no formatting.
 
+## Writing & Documentation
+- Rewrite this to be shorter and clearer: [paste text].
+- Summarize this in one paragraph: [paste long text].
+- Turn this into bullet points: [paste text]."
+- Summarize the key points in bullet points
+- Reword this in plain English: [paste technical explanation]
+-Turn this into active voice: [paste text]
+- Rewrite this so the subject does the action, not the other way around: [paste text]
+
 ## Use Real-World Context
-- I am using Spark 3.4, Scala 2.12, and Apache Iceberg
+- I am using Spark 3.4, Scala 2.12, and Apache Iceberg. I use Gradle as a build tool.
 
 
