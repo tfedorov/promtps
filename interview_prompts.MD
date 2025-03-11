@@ -1,4 +1,4 @@
-*"I conducted an interview for a [Big Data/Java/Scala/Other] developer position and took unstructured notes on the candidate's responses. I need to generate a structured interview summary based on my notes. Interview summary feedback need for delivery manager and HR for decision making about the candidate
+*"I conducted an interview for a [Big Data/Java/Scala/Other] developer position and took unstructured notes on the candidate's responses. I need to generate a structured interview summary based on my notes. Interview summary feedback need for delivery manager and HR for decision making about the candidate. If You need some more information ask me.
 
 Here is my raw input:*
 [Insert unstructured notes here]
