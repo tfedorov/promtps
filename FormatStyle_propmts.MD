@@ -1,16 +1,19 @@
 ## Self-Ask Prompting
--  ask clarifying questions before generating a response
+-  ask clarifying questions if you have not all info or not in context.
+-  ask clarifying questions before generating a response.
 
 ## Format & Style
 ### Format
 - Provide code first, then explain it step by step.
 - Provide gradle kotlin code with rerquired dependencies.
-- Explain the trade-offs of using ...
-- Paint design diagram for solution
+- Explain the trade-offs of using.
+- Paint design diagram for solution.
 - Provide plantuml component diagram for solution. Use sprites spark/java/hadoop for corresponding elements.
-- Describe in MD format provide pure code with no formatting.
+- Describe in MD format provide pure code with no formatting. I want to copy the code and insert to the MD file.
 
 ### Style
+- Explain like I'm a junior developer.
+- Write in plain English be shorter and clearer.
 - Rewrite this to be shorter and clearer: [paste text].
 - Summarize this in one paragraph: [paste long text].
 - Turn this into bullet points: [paste text]."
