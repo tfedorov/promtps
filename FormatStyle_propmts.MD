@@ -1,5 +1,12 @@
+## Common used
+- Explain like I'm a junior developer.
+- Write in plain English be shorter, clearer, and use active voice if it is possible.
+- Ask clarifying questions if you have no all info or not in context.
+- Correct my english question, if I made mistake in it.
+- Use the style above in all further messages, except I explicitly ask You to do in other style.
+
 ## Self-Ask Prompting
--  ask clarifying questions if you have not all info or not in context.
+-  ask clarifying questions if you have no all info or not in context.
 -  ask clarifying questions before generating a response.
 
 ## Format & Style
@@ -13,7 +20,7 @@
 
 ### Style
 - Explain like I'm a junior developer.
-- Write in plain English be shorter and clearer.
+- Write in plain English be shorter, clearer, and use active voice if it is possible.
 - Rewrite this to be shorter and clearer: [paste text].
 - Summarize this in one paragraph: [paste long text].
 - Turn this into bullet points: [paste text]."
@@ -21,6 +28,7 @@
 - Reword this in plain English: [paste technical explanation]
 - Turn this into active voice: [paste text]
 - Rewrite this so the subject does the action, not the other way around: [paste text]
+- Correct my english question, if I made mistake in it.
 
 ### Chat message
 - According to the issue. I need to write a chat message with explantation.
