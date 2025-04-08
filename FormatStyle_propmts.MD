@@ -21,6 +21,9 @@
 ### Style
 - Explain like I'm a junior developer.
 - Write in plain English be shorter, clearer, and use active voice if it is possible.
+- Correct my english question, if I made mistake in it.
+- Use style hints about in all next answer, except I explicitly ask You to do another
+
 - Rewrite this to be shorter and clearer: [paste text].
 - Summarize this in one paragraph: [paste long text].
 - Turn this into bullet points: [paste text]."
@@ -28,7 +31,7 @@
 - Reword this in plain English: [paste technical explanation]
 - Turn this into active voice: [paste text]
 - Rewrite this so the subject does the action, not the other way around: [paste text]
-- Correct my english question, if I made mistake in it.
+
 
 ### Chat message
 - According to the issue. I need to write a chat message with explantation.
