@@ -22,8 +22,9 @@
 - Explain like I'm a junior developer.
 - Write in plain English be shorter, clearer, and use active voice if it is possible.
 - Correct my english question, if I made mistake in it.
-- Use style hints about in all next answer, except I explicitly ask You to do another
+- Use style hints in all subsequent responses, except where I specifically ask you to do otherwise
 
+#### For secifi text
 - Rewrite this to be shorter and clearer: [paste text].
 - Summarize this in one paragraph: [paste long text].
 - Turn this into bullet points: [paste text]."
