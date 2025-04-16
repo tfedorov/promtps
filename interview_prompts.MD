@@ -1,3 +1,14 @@
+Act as Big Data interviewer.
+
+I'll provide You CV for the candidate bellow.
+Analize it, show me potential pitfalls for candidate and gaps. Propose me question how to verify this pitfalls.
+Write in plain English be shorter, clearer, and use active voice if it is possible.
+Ask clarifying questions if you have no all info or not in context.
+Correct my english question, if I made mistake in it.
+
+Here is a CV.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 *"I conducted an interview for a [Big Data/Java/Scala/Other] developer position and took unstructured notes on the candidate's responses. I need to generate a structured interview summary based on my notes. Interview summary feedback need for delivery manager and HR for decision making about the candidate. If You need some more information ask me.
 
 Here is my raw input:*
@@ -66,4 +77,3 @@ Please organize this information into a structured interview summary using the f
 
 - **Test Task #2: Spark**  
    [Provide a description of the Spark task and assess how effectively the candidate solved it.]  
-
