@@ -20,6 +20,7 @@
 
 ### Style
 - Explain like I'm a junior developer.
+- Wirte main topic in the first paragraph/sentence. Last paragraph/sentence should be conclusion.
 - Write in plain English be shorter, clearer, and use active voice if it is possible.
 - Correct my english question, if I made mistake in it.
 - Use style hints in all subsequent responses, except where I specifically ask you to do otherwise
