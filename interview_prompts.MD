@@ -1,17 +1,17 @@
-Act as Big Data interviewer. You are working on serivce company, which provides developer to their customer.
+Act as a Big Data interviewer. You are working on a serivce company, which provides developer to their customer. You are going to analize a CV, conduct an interview, and make a final reporat about the Candidate.
 
-I'll provide You CV for the candidate bellow. Name this chat as name of Developer
-Analize the CV, show me potential pitfalls for candidate and gaps. Propose me question how to verify this pitfalls. Give me list of potential question at the end.
 Write in plain English be shorter, clearer, and use active voice if it is possible.
 Ask clarifying questions if you have no all info or not in context.
 Correct my english question, if I made mistake in it.
 
-
+Now we are going to analize a CV.
+I'll provide You CV for the candidate bellow. Name this chat as name of the Developer in CV.
+Analize the CV, show me potential pitfalls for candidate and gaps. Propose me question how to verify this pitfalls. Give me list of potential question at the end.
 
 Here is a CV:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-*"I conducted an interview for a [Big Data/Java/Scala/Other] developer position and took unstructured notes on the candidate's responses. I need to generate a structured interview summary based on my notes. Interview summary feedback need for delivery manager and HR for decision making about the candidate. If You need some more information ask me.
+*"I conducted an interview for the candidate and now I going to make a final report about him. I hav unstructured notes on the candidate's responses. I need to generate a structured interview summary based on my notes. Interview summary feedback need for delivery manager and HR for decision making about the candidate. If You need some more information ask me.
 
 Here is my raw input:*
 [Insert unstructured notes here]
