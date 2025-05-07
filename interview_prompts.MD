@@ -11,6 +11,14 @@ Analize the CV, show me potential pitfalls for candidate and gaps. Propose me qu
 Here is a CV:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Potential questions:
+
+- spark.read.parquet("hdfs://input_path").filter($"id".isNotNull).write.parquet("hdfs://output_path") 
+- Have you ever worked on a project where another team had key information but wasn’t responsive or cooperative? 
+- Have you ever started a task or project where the requirements weren’t clear? 
+- Have you worked on a project where different stakeholders had conflicting goals or expectations?
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 *"I conducted an interview for the candidate and now I going to make a final report about him. I hav unstructured notes on the candidate's responses. I need to generate a structured interview summary based on my notes. Interview summary feedback need for delivery manager and HR for decision making about the candidate. If You need some more information ask me.
 
 Here is my raw input:*
@@ -20,50 +28,53 @@ Please organize this information into a structured interview summary using the f
 
 ---
 
-## Overall Evaluation
+## Overall Evaluation:
 
-- **Appropriate for position?**: [Yes/No/Maybe]  
+- **Appropriate for position?**: [Yes/No]  
 - **Refer to Other Opportunities**: [Yes/No/Maybe, If Yes - Suggest roles or opportunities best suited to their strengths and areas for improvement.]  
-- **Recommended Grade**: [Provide an overall grade, e.g., Junior, Middle, Senior.]  
+- **Recommended Grade**: [Provide an overall grade, e.g., Junior, Middle, Senior]  
 
 ---
 
-## General Impression  
-[Summarize your overall impression of the candidate, including their demeanor, communication skills, and attitude during the interview. 1-2 paragraphs]  
+##General Impression:
+[Summarize your overall impression of the candidate, including their demeanor, communication skills, and attitude during the interview. What is lack for next candidate grade. 1-2 paragraphs]  
 
-## Technical Impression  
-[Evaluate their technical expertise, discussing areas of strength and any gaps in knowledge or experience.1-2 paragraphs]  
+## Key Strengths:
+[Bullet list]
+
+## Areas for Improvement:
+[Bullet list]
 
 ---
 
 ## Assessment of Key Areas
 
-1. **Java Core**  
-   [Summarize candidate’s proficiency in Java, focusing on core concepts, practical application, and knowledge depth. Provide examples if applicable.]  
+1. **Programming Skills (Scala, Java, etc.)e**  
+   [Summarize candidate’s proficiency in languages, focusing on core concepts, practical application, and knowledge depth. Provide examples if applicable.]  
 
-2. **Scala Language**  
-   [Summarize candidate’s experience with Scala, their comfort level, and ability to apply Scala to real-world tasks.]  
+2. **Big Data Technologies (Hadoop, Spark, Kafka, etc.)**  
+   - **Hadoop (HDFS / Yarn / MapReduce / Hive / Pig / Parquet / Avro, etc.)**: [Summarize the candidate’s proficiency with Hadoop-related tools.]  
+   - **Spark and Spark Streaming**: [Provide feedback on their experience and comfort level with Spark.]  
+   - **Kafka / Beam / Flink / Ignite / NiFi / StreamSets, etc.**: [Evaluate their familiarity and expertise with other Big Data frameworks.]   
 
-3. **SQL**  
-   [Evaluate the candidate’s SQL skills, including their understanding of queries, optimization techniques, and handling complex data operations.]  
-
-4. **NoSQL (Cassandra / Redis / MongoDB / HBase, etc.)**  
-   [Assess their knowledge and practical experience with NoSQL databases, mentioning specific tools or technologies they are familiar with.]  
-
-5. **Algorithms**  
+3. **Algorithms**  
    [Comment on the candidate’s algorithmic problem-solving skills, highlighting their approach, accuracy, and efficiency.]  
 
-6. **Design Patterns**  
-   [Provide insights into their understanding of design patterns, discussing examples they referenced or demonstrated in the interview.]  
 
-7. **Data Processing Approaches**  
+4. **SQL/NoSQL**  
+   [Evaluate the candidate’s SQL skills, including their understanding of queries, optimization techniques, and handling complex data operations.]  
+
+5. **Data Processing approaches (batch processing, stream processing)**  
    - **Batch Processing**: [Comment on their proficiency with batch processing approaches and technologies.]  
    - **Stream Processing**: [Evaluate their understanding and experience with stream processing technologies.]  
 
-8. **Big Data Platforms, Frameworks, and Services**  
-   - **Hadoop (HDFS / Yarn / MapReduce / Hive / Pig / Parquet / Avro, etc.)**: [Summarize the candidate’s proficiency with Hadoop-related tools.]  
-   - **Spark and Spark Streaming**: [Provide feedback on their experience and comfort level with Spark.]  
-   - **Kafka / Beam / Flink / Ignite / NiFi / StreamSets, etc.**: [Evaluate their familiarity and expertise with other Big Data frameworks.]  
+6. **Parallel Distributed Processing**
+
+7. **Workflow Schedulers (Airflow, Oozie, Azkaban, Taverna, etc.)**
+
+
+8. **Data Processing & Pipelines**  
+
 
 9. **Cloud Services**  
    - **Google Cloud (GCP)**: [Assess their knowledge and experience with GCP tools and services.]  
