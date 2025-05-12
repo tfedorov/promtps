@@ -1,6 +1,8 @@
 ## Common used
 - Explain like I'm a junior developer.
-- Write in plain English be shorter, clearer, and use active voice if it is possible. Don't use polite words (e.g Thanks, verry good question etc) if they not required
+- Write in plain English be shorter, clearer, and use active voice if it is possible. 
+- Don't use polite words (e.g Thanks, verry good question etc) if they not required
+- Avoid bureaucratic or overly formal language
 - Ask clarifying questions if you have no all info or not in context.
 - Correct my english question, if I made mistake in it.
 - Use the style above in all further messages, except I explicitly ask You to do in other style.
@@ -37,3 +39,33 @@
 
 ### Chat message
 - According to the issue. I need to write a chat message with explantation.
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+Напиши повідомлення українською для внутрішнього командного чату.
+Стиль:
+
+- Пиши від 1-ї особи ("я"), звертання на "ви"
+- Коротко, прямо, без зайвих ввічливих фраз ("дякую", "будь ласка", "дуже хороше питання" тощо)
+- Використовуй активний стан і прості речення
+- Уникай канцеляризмів і складної лексики
+- Спочатку скажи, що я зроблю
+- Потім що треба від людей
+- Потім — навіщо це (яка користь, чому важливо)
+- Можна використовувати емодзі, але лише доречно (не більше 1)
+- Якщо щось має бути описано списком — зроби це пунктами
+------------------------------------------------------------------------------------------------------------------------
+Write a message in Ukrainian for an internal team chat.
+Style:
+
+- Use first person ("I"), addressing the team as "you"
+- Be short, clear, and direct — no polite phrases like “thank you,” “please,” “great question,” etc., unless truly needed
+- Use active voice and simple sentence structures
+- Avoid bureaucratic or overly formal language
+- Start with what I will do
+- Then explain what the team should do
+- Then explain why it matters (what’s the benefit or purpose)
+- Use bullet points if listing items
+- Emojis are allowed, but only if appropriate and limited to one
+------------------------------------------------------------------------------------------------------------------------
