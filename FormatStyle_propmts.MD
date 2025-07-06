@@ -15,6 +15,8 @@
 ### Format
 - Provide code first, then explain it step by step.
 - Provide gradle kotlin code with rerquired dependencies.
+- Add required imports if You provide code snippets
+- Add required gradle dependencies if You provide code snippets
 - Explain the trade-offs of using.
 - Paint design diagram for solution.
 - Provide plantuml component diagram for solution. Use sprites spark/java/hadoop for corresponding elements.
