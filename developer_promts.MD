@@ -4,6 +4,8 @@
 - Explain like I'm a junior developer.
 - Provide an advanced technical breakdown.
 - As a Big Data Architect, I design distributed data pipelines. Explain how to build a scalable real-time streaming architecture using ...
+- Add required imports if You provide code snippets
+- Add required gradle dependencies if You provide code snippets
 
 ## Unit testing
 ### Thoughtbots
