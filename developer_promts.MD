@@ -16,7 +16,8 @@ Requirements:
 
 - Use Scalatest as the testing framework.
 - Follow the AAA pattern (Arrange, Act, Assert) for clarity.
-- Keep tests small, independent, and fast by avoiding unnecessary external dependencies. Use class variable as small as possible.
+- Keep tests small, independent, and fast by avoiding unnecessary external dependencies.
+- Tested function should return varialbe result or with prefix result. Input parameteres for the tested function should be input or with prefix input.
 - Try to not Use mocks/stubs (e.g., Mockito or ScalaMock).
 - Ensure edge cases and error handling are covered.
 - Provide meaningful test names that describe the behavior
