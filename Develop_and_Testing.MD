@@ -31,19 +31,16 @@ Requirements:
 
 ### Context base
 Generate a short Javadoc/Scaladoc for the code below.
-Focus on WHEN to call it (context), not what it does.
+Focus on context of call it , not what the method/class does.
 
 Include:
 
-- When/Use/Skip (3 short lines)
-- Preconditions (1 line)
-- Effects/guarantees or perf/threading (1 line)
+- Who can call the method
+- What environment/context should be for call
+- What side effects method or class caused
 - If this is an SQL-facing function/UDF, add one minimal SQL example.
 Style rules: active voice, no fluff, no restating the method/class name, no repeating types, wrap at ~80 chars, keep summary ≤6 lines before tags. Use @param/@return/@throws only if helpful; keep each tag to a terse phrase.
 
-Context: <where in the pipeline this runs, typical caller, stage (e.g., “Spark
-executor during map-side combine”, “Trino aggregation merge step”), data size,
-latency/throughput expectations, null/NaN policy>
-Code:
+Context example: <spark session created, udf with the function registered, trino plugin is enabled, Trino plugin registered, e.t.c >
 
 
