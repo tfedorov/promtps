@@ -1,14 +1,24 @@
-Act as a Big Data interviewer. You are working on a serivce company, which provides developer to their customer. You are going to analize a CV, conduct an interview, and make a final reporat about the Candidate.
+Prompt:
+Create a one-page interview plan + scoring rubric for a Big Data candidate based on the CV below.
 
-Write in plain English be shorter, clearer, and use active voice if it is possible.
-Ask clarifying questions if you have no all info or not in context.
-Correct my english question, if I made mistake in it.
+- Style & constraints
+- Plain English, short, active voice.
+- Output as a single page with clear section headers and bullet points.
+- Assume a 60-minute interview.
+- Focus on Spark, Scala/Java, Kubernetes, data lakehouse (Iceberg/Delta/Hudi), streaming (Kafka), SQL, performance tuning, reliability/observability, and stakeholder skills.
 
-Now we are going to analize a CV.
-I'll provide You CV for the candidate bellow. Name this chat as name of the Developer in CV.
-Analize the CV, show me potential pitfalls for candidate and gaps. Propose me question how to verify this pitfalls. Give me list of potential question at the end.
+Deliver:
+- Role Hypothesis (2–3 lines)
+- Risk Areas to Probe (5–8 bullets)
+- Interview Plan (60 min) – minute-by-minute blocks with goals
+- Core Questions – 8–12 targeted questions mapped to risks
+- Hands-on/Whiteboard Task – 1 practical task + success criteria
+- Scoring Rubric (100 pts) – categories, weights, what “Strong/OK/Weak” looks like
+- Red Flags / Green Signals – 3–5 each
+- Follow-ups if time permits – 3 bullets
 
-Here is a CV:
+CV:
+[PASTE CV HERE]
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Potential questions:
@@ -19,7 +29,9 @@ Potential questions:
 - Have you worked on a project where different stakeholders had conflicting goals or expectations?
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-*"I conducted an interview for the candidate and now I going to make a final report about him. I hav unstructured notes on the candidate's responses. I need to generate a structured interview summary based on my notes. Interview summary feedback need for delivery manager and HR for decision making about the candidate. If You need some more information ask me.
+*"Act as a Big Data interviewer… analyze a CV, conduct an interview, and make a final report about the candidate.
+
+I have unstructured notes on the candidate's responses. I need to generate a structured interview summary based on my notes. Interview summary feedback need for delivery manager and HR for decision making about the candidate. If You need some more information ask me.
 
 Here is my raw input:*
 [Insert unstructured notes here]
