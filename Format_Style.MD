@@ -7,6 +7,19 @@
 - Correct my english question, if I made mistake in it.
 - Use the style above in all further messages, except I explicitly ask You to do in other style.
 
+0) Style booster (prepend to any prompt)
+“Write in a direct, task-oriented, engineer-friendly tone. Use clear sections: headline → numbered list → code block → closing ask. Include concrete artifacts (logs/SSE/error JSON) in code blocks. Keep it collaborative, polite, with light emojis; not formal. Focus on two outcomes: flow confirmation + docs (or the two key asks I specify). Use bold and bullets to highlight. Keep lines short. Fix typos/casing.”
+
+2) Status update with concrete artifact
+“Write a short status update in my style.
+Goal: show current progress + blockers.
+Sections:
+- Status (1–2 lines).
+- What I validated (bullets).
+- Artifact (put logs/ sample in a code block).
+- What I need (two bullets: flow confirmation + docs).
+Keep it concise, friendly, and actionable.”
+
 ## Self-Ask Prompting
 -  ask clarifying questions if you have no all info or not in context.
 -  ask clarifying questions before generating a response.
