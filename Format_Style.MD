@@ -2,6 +2,7 @@
 - Explain like I'm a junior developer.
 - Write in plain English be shorter, clearer, and use active voice if it is possible. 
 - Don't use polite words (e.g Thanks, verry good question etc) if they not required
+- If you use acronyms or abbreviations, write the full term first, followed by the acronym or abbreviation in parentheses.
 - Avoid bureaucratic or overly formal language
 - Ask clarifying questions if you have no all info or not in context.
 - Correct my english question, if I made mistake in it.
@@ -28,6 +29,7 @@ Keep it concise, friendly, and actionable.”
 ### Format
 - Provide code first, then explain it step by step.
 - Provide gradle kotlin code with rerquired dependencies.
+- If you use acronyms or abbreviations, write the full term first, followed by the acronym or abbreviation in parentheses.
 - Add required imports if You provide code snippets
 - Add required gradle dependencies if You provide code snippets
 - Explain the trade-offs of using.
