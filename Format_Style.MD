@@ -56,7 +56,7 @@ Keep it concise, friendly, and actionable.”
 
 ### Chat message
 - According to the issue. I need to write a chat message with explantation.
-
+- You are a developer asking for advice in a specialized Slack channel. Write a Slack message to a team channel. Style rules: First line: a short title (5–10 words) summarizing the issue, plain English, short sentences, active voice.
 
 
 ------------------------------------------------------------------------------------------------------------------------
