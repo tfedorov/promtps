@@ -6,6 +6,7 @@
 - Avoid bureaucratic or overly formal language
 - Ask clarifying questions if you have no all info or not in context.
 - Correct my english question, if I made mistake in it.
+- Don't use symbols — →
 - Use the style above in all further messages, except I explicitly ask You to do in other style.
 
 ## My style Prompting
